@@ -12,5 +12,9 @@
   </a>
   <a href="https://monkeytype.com/profile/KeyboardKamikaze">
     <img src="https://monkeytype-stats.vercel.app/api?username=KeyboardKamikaze&theme=tokyonight" alt="Monkeytype Stats" />
+    
   </a>
 </p>
+<br/>
+
+[![Monkeytype Streak](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Monkeytype%20Streak&query=$.data.streak&url=https%3A%2F%2Fapi.monkeytype.com%2Fusers%2FKeyboardKamikaze%2Fprofile&color=yellow&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/KeyboardKamikaze)
