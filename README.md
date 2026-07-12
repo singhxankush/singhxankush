@@ -11,6 +11,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhxankush&theme=tokyonight" alt="GitHub Streak" />
   </a>
   <a href="https://monkeytype.com/profile/KeyboardKamikaze">
-    <img src="https://monkeytype-github-profile.deno.dev/profile/KeyboardKamikaze" alt="Monkeytype Stats" />
+    <img src="https://monkeytype-stats.vercel.app/api?username=KeyboardKamikaze&theme=tokyonight" alt="Monkeytype Stats" />
   </a>
 </p>
