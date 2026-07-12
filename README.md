@@ -6,7 +6,11 @@
 
 ## 📊 My Streaks & Stats
 
-Tags:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singhxankush&theme=tokyonight)](https://git.io/streak-toggle)
-
-[![Monkeytype](https://img.shields.io/badge/Monkeytype-Streak%20199%2B-yellow?style=for-the-badge&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/KeyboardKamikaze)
+<p align="left">
+  <a href="https://git.io/streak-toggle">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhxankush&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+  <a href="https://monkeytype.com/profile/KeyboardKamikaze">
+    <img src="https://monkeytype-github-profile.deno.dev/profile/KeyboardKamikaze" alt="Monkeytype Stats" />
+  </a>
+</p>
