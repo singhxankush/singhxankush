@@ -67,10 +67,10 @@
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhxankush&bg_color=0d0221&color=00f5ff&line=ff2e97&point=ffffff&area=true&area_color=ff2e97&hide_border=true&radius=10" alt="Contribution graph" />
+  <img src="https://raw.githubusercontent.com/singhxankush/singhxankush/output/github-snake-dark.svg" alt="Contribution snake" />
 </p>
 
 ---
