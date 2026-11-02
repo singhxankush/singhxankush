@@ -96,7 +96,7 @@
 
 ## 🚀 Projects
 
-> 🚧 Nothing here yet, but every roadmap step above will turn into a repo. Check back soon!
+[Face-Mask-Detection](https://github.com/singhxankush/Face-Mask-Detection)
 
 ---
 
